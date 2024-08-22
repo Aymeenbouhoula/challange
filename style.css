@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 10px;
+}
+select{
+    color: red;
+    display: block;
+    text-decoration: underline;
+}
+.div1{
+    background-color: rgb(31, 203, 31);
+}
+.div2{
+    background-color: blue;
+}
+.div3{
+    background-color: darkblue;
+}
+body{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+    flex-wrap: wrap;
+    height: 270px;
+    color: white;
+}
+.s1{
+    margin-top: 100px;
+}
+.s2{
+    margin-top: 100px;
+}
+.s3{
+    margin-top: 70px;
+}
+
